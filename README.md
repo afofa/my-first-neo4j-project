@@ -3,7 +3,7 @@
 Reads provided json (named `tbmm.json`), which contains information crawled from [TBMM website](https://www.tbmm.gov.tr), and puts the information to neo4j database by creating nodes and relationships between those nodes.
 
 You can see the resulting graph below.
-![Alt text](./graph.svg?raw=true "TBMM Members Graph")
+![Alt text](./graph.png "TBMM Members Graph")
 
 ## Usage
 
